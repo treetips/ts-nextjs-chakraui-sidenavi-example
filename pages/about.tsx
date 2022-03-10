@@ -6,7 +6,7 @@ const Home: NextPage = () => {
   return (
     <Layout>
       <Text as="h1" fontSize="6xl">
-        Home
+        About
       </Text>
     </Layout>
   );
