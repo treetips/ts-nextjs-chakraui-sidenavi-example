@@ -13,6 +13,10 @@ This is a example of a responsive, Drawer-based sidenavi using TypeScript, Next.
 | [React](https://www.typescriptlang.org/)                  |     | 17           |
 | [Chakra-UI](https://chakra-ui.com/)                       |     | latest       |
 
+## Screenshot
+
+https://user-images.githubusercontent.com/12574048/157705839-0e57107a-dd80-48d4-b656-df287935320f.mp4
+
 ## Usage
 
 ```sh
@@ -26,5 +30,3 @@ npm run dev
 ```
 
 open <http://localhost:3000/about>
-
-## Screenshot
